@@ -106,7 +106,7 @@ p {
   color: #fff;
 }
 
-#navbar h1 {
+#navbar .logo {
   float: left;
   padding-top: 20px;
 }
@@ -223,7 +223,7 @@ p {
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
-  height: 600px;
+  height: 100%;
   padding-top: 100px;
 }
 #testimonials .testimonial {
@@ -269,7 +269,7 @@ textarea {
 
 /* Contact Info */
 #contact-info {
-  height: 250px;
+  height: 100%;
 }
 
 /* Footer */
